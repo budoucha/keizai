@@ -1,5 +1,4 @@
-# keizai
-
-# ドラッグして経済を回す
+# about
+ドラッグして経済を回す
 
 https://budoucha.github.io/keizai
